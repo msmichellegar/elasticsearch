@@ -1,0 +1,20 @@
+{
+  "name": "elasticsearch-playground",
+  "version": "1.0.0",
+  "description": "just playing with elasticsearch",
+  "main": "server.js",
+  "scripts": {
+    "test": "/"
+  },
+  "keywords": [
+    "elasticsearch",
+    "playground"
+  ],
+  "author": "msmichellegar",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^11.0.1",
+    "esta": "^4.2.0",
+    "express": "^4.14.0"
+  }
+}
